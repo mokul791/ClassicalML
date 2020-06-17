@@ -18,10 +18,10 @@ Feature Extraction and visualization: Capturing maximum variance or representati
   - LDA: For visualization
 
 Algorithms:
-   KNN.
-   SVM.
-   Decision Tree Classifier.
-   Random Forest Classifier.
-   Adaboost for DTC and RFC.
-   Gradient Boosting Classifier: Use scikit-learn and XGBoost Library.
+  - KNN.
+  - SVM.
+  - Decision Tree Classifier.
+  - Random Forest Classifier.
+  - Adaboost for DTC and RFC.
+  - Gradient Boosting Classifier: Use scikit-learn and XGBoost Library.
   
